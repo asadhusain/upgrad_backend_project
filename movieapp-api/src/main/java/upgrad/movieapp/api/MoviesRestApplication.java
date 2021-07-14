@@ -12,7 +12,7 @@ import upgrad.movieapp.service.config.ServiceConfiguration;
 public class MoviesRestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MoviesRestApplication.class, args);
+        SpringApplication.run(MoviesRestAppliction.class, args);
         // Added random comment to check jenkins webhook 
     }
 
