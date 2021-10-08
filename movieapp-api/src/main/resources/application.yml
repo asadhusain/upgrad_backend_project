@@ -9,9 +9,9 @@ spring:
     name: movieapp-api
 
   datasource:
-    url: jdbc:postgresql://mydbinstance.cg1lti9azghj.us-east-1.rds.amazonaws.com:5432/moviedatabase
-    username: upgrad123
-    password: upgrad2021fsd
+    url: jdbc:postgresql://mydbinstance.cowb8w6shbou.us-east-1.rds.amazonaws.com:5432/moviedatabase
+    username: upgradfsd
+    password: upgradfsd
 
   jpa:
     properties:
